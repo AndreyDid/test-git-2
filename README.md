@@ -1,4 +1,4 @@
-1. git status
+1. git status - проверить есть ли измененные файлы
 2. (!) git add [files] / git add . - добавляет файлы в stage
 3. (1) git commit -m "comment"
 4. git log / git log --oneline
