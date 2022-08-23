@@ -6,3 +6,6 @@
 6. git branch - создать новую ветку
 7. git checkout - переключиться на ветку
 8. git merge
+9. 
+
+
